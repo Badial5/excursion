@@ -34,6 +34,21 @@ body {
 }
 
 
+/* Image */
+.camp {
+    max-width: 90%;
+    max-width: 90%;
+    object-position: center;
+}
+
+/* Video */
+.video {
+    max-width: 90%;
+    max-height: 90%;
+    object-position: center;
+}
+
+
 
  /* LINKS */
  .link--cta {
