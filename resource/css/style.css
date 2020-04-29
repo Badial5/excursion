@@ -7,6 +7,8 @@ body {
 }
 
 
+/* HEADINGS */
+
 .header--main {
 
     font-weight: normal;
@@ -15,7 +17,26 @@ body {
 
 }
 
-.link--cta {
+   
+
+
+.header--secondary {
+    font-weight: 300;
+    font-size: 42px;
+    color: #ffffff;
+}
+
+.header--sub-header {
+
+    font-size: 21px;
+    color: grey;
+
+}
+
+
+
+ /* LINKS */
+ .link--cta {
     font-size: 16px;
     color: aquamarine;
 }
